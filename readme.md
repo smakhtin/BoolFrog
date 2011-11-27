@@ -2,6 +2,10 @@
 
 Bool Frog is a set of animation and logic nodes for Grasshopper, inspired by VVVV. Most nodes have the same functionality and pin names, as VVVV's originals. The project is fully opensource, you can get compiled gha files from Downloads section.
 
+##Installation
+
+Download (latest version)[https://github.com/downloads/smakhtin/BoolFrog/BoolFrog.zip] and unpack it to the Components folder inside Grasshopper installation dirrectory.
+
 ## How you can help
 
 * All nodes currently don't have any icons. You can draw some and send it to me for integration.
