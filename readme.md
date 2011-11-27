@@ -1,6 +1,6 @@
 #Bool Frog
 
-Bool Frog is a set of animation and logic nodes, inspired by VVVV. Most nodes have the same functionality and pin names, as VVVV's originals. The project is fully opensource, you can get compiled gha files from Downloads section.
+Bool Frog is a set of animation and logic nodes for Grasshopper, inspired by VVVV. Most nodes have the same functionality and pin names, as VVVV's originals. The project is fully opensource, you can get compiled gha files from Downloads section.
 
 ## How you can help
 
