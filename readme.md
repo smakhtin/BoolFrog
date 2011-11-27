@@ -4,7 +4,7 @@ Bool Frog is a set of animation and logic nodes for Grasshopper, inspired by VVV
 
 ##Installation
 
-Download (latest version)[https://github.com/downloads/smakhtin/BoolFrog/BoolFrog.zip] and unpack it to the Components folder inside Grasshopper installation dirrectory.
+Download [latest version](https://github.com/downloads/smakhtin/BoolFrog/BoolFrog.zip) and unpack it to the Components folder inside Grasshopper installation dirrectory.
 
 ## How you can help
 
